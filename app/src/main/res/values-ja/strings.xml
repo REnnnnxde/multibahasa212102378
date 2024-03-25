@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">多言語フォーム</string>
+    <string name="lokasi">位置</string>
+    <string name="jalan">道</string>
+    <string name="kodePos">郵便番号</string>
+    <string name="negara">国</string>
+    <string-array name="daftarNegara">
+        <item>Indonesia</item>
+        <item>Singapore</item>
+        <item>Jepang</item>
+        <item>Malaysia</item>
+        <item>Filipina</item>
+        <item>Australia</item>
+    </string-array>
+    <string name="pemakai">ユーザー</string>
+    <string name="nama">名前</string>
+    <string name="telp">電話</string>
+    <string name="sandi">パスワード</string>
+    <string name="tglLahir">生年月日</string>
+    <string name="ulang">繰り返す</string>
+    <string name="simpan">保存</string>
+</resources>
